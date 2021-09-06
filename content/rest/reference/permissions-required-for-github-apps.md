@@ -1,3 +1,4 @@
+![20210507_202507](https://user-images.githubusercontent.com/90195689/132231216-44f22c43-838b-4708-9472-39b427669431.jpg)
 ---
 title: Permissions required for GitHub Apps
 intro: 'You can find the required permissions for each {% data variables.product.prodname_github_app %}-compatible endpoint.'
